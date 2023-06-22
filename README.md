@@ -1,2 +1,2 @@
-# Drug
+# Drugs
 project with sql
